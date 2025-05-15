@@ -12,6 +12,13 @@ Technologies used for this project:
 
 Spring Boot, H2 (in-memory hql), Maven
 
+Implementation explination :
+
+I have created 2 api's for creating data and showing the data
+
+1. createDataSet api was created to create data and calculate reward points of customer and create data in H2 DB.
+2. getCustomerRewardPoints api was created to showup the total reward points and monthly wise reward points
+
 How to run a project :
 1.	Do maven clean install 
 2.	Start the application
