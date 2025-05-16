@@ -1,6 +1,4 @@
 # Retailer_rewards_springboot_geetha
-Spring boot project to calculate the rewards of customer for a retailer company
-
 Project Description :
 
 A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.  
@@ -8,11 +6,11 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 
 (e.g. a $120 purchase = 2x$20 + 1x$50 = 90 points). 
 
-Technologies used for this project:  
+Technologies used :  
 
 Spring Boot, H2 (in-memory hql), Maven
 
-Implementation explination :
+Implementation explaination :
 
 I have created 2 api's for creating data and showing the data
 
@@ -20,6 +18,7 @@ I have created 2 api's for creating data and showing the data
 2. getCustomerRewardPoints api was created to showup the total reward points and monthly wise reward points
 
 How to run a project :
+
 1.	Do maven clean install 
 2.	Start the application
 3.  Run http://localhost:8080/createDataSet in browser, to calculate reward points and create data in H2 DB.
