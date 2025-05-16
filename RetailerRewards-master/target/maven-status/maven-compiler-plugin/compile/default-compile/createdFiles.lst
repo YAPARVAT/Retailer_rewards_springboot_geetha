@@ -1,8 +1,0 @@
-com\retailer\rewards\service\impl\RewardsServiceImpl.class
-com\retailer\rewards\RetailerRewardsApplication.class
-com\retailer\rewards\controller\RewardsCaluclatorController.class
-com\retailer\rewards\service\RewardsService.class
-com\retailer\rewards\dto\RewardsDTO.class
-com\retailer\rewards\model\Rewards.class
-com\retailer\rewards\repository\RewardsRepository.class
-com\retailer\rewards\dto\CustomerRewardsDTO.class
